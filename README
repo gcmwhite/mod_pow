@@ -1,0 +1,7 @@
+the function mod pow,like this
+
+a ^ b % c
+
+please be careful int range
+
+meybe you should use unsigned long long or big_int
